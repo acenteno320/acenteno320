@@ -1,9 +1,10 @@
 
 
-![Mesa de trabajo 2 copia-100(1)](https://github.com/user-attachments/assets/68db425e-479c-4633-ab9f-7cb1aa5f7f6c)
 
 
 
+
+![facets-of-data-analytics](https://github.com/user-attachments/assets/12287f7e-9469-4b2b-87f0-2828100ec35b)
 
 
 
