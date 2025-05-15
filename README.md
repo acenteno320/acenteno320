@@ -12,7 +12,7 @@
 
 
 <div align="center">
-# DATA ANALYST 
+ DATA ANALYST 
  <hr>
 </div>
 
