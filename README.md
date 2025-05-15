@@ -3,7 +3,9 @@
 
 <div align="center">
   <hr>
-  ![facets-of-data-analytics](https://github.com/user-attachments/assets/12287f7e-9469-4b2b-87f0-2828100ec35b)
+  
+ ![facets-of-data-analytics](https://github.com/user-attachments/assets/16c9cc1e-ede3-4cba-b3ef-7861ca5fa8fb)
+
   <hr>
 </div>
 
