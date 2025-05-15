@@ -12,9 +12,9 @@
 
 
 <div align="center">
----
-# ***DATA ANALYST***
----
+ <hr>
+ ***DATA ANALYST***
+ <hr>
 </div>
 
 - 🙋‍♀️ Hi, I’m Ana Centeno
