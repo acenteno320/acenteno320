@@ -33,7 +33,7 @@
 
  
 
-## 🧰 Technologíes:
+## 🧰 Technologies:
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" />
