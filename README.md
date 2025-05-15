@@ -31,10 +31,30 @@
 - 🧠 Fun fact: I speak three languages, and sometimes I think in SQL before I think in Spanish
 
 - LinkedIn: (https://www.linkedin.com/in/ana-centeno-baltazar/)
-  
-- Portfolio Projects: Check out my pinned repos! 📌  
+
+- Portfolio Projects: Check out my pinned repos! 📌
+
+   
+
+## 🧰 Tecnologías
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
+</p>
 
 
+
+## 🛠️ Herramientas y tecnologías
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 
