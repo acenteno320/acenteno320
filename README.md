@@ -18,7 +18,7 @@
 
 - 🙋‍♀️ Hi, I’m Ana Centeno
 - 🔍 I’m interested in Data Analysis 
--📚 I’m currently learning Business Intelligence and Data Visualization
+- 📚 I’m currently learning Business Intelligence and Data Visualization
 - 🤝 I’m looking to collaborate on data-related projects
 - 📫 How to reach me to my email: CentenoAj@outlook.com
 - 👩‍💼 Pronouns: She/Her 
