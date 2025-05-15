@@ -13,7 +13,6 @@
 
 <div align="center">
   <h1><strong>DATA ANALYTICS</strong></h1>
-  <hr>
 </div>
 
 
