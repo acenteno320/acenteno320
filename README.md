@@ -12,7 +12,7 @@
 
 
 <div align="center">
- DATA ANALYST 
+ ***DATA ANALYTICS*** 
  <hr>
 </div>
 
@@ -51,11 +51,9 @@
 
 
 
-- LinkedIn: (https://www.linkedin.com/in/ana-centeno-baltazar/)
+
 
 - Portfolio Projects: Check out my pinned repos! 📌
-
-
 
 <!---
 acenteno320/acenteno320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
