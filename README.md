@@ -6,15 +6,9 @@
 
 ![facets-of-data-analytics](https://github.com/user-attachments/assets/12287f7e-9469-4b2b-87f0-2828100ec35b)
 
-
-
-
-
-
-
-
-
-
+---
+# ***DATA ANALYST***
+---
 
 
 - 🙋‍♀️ Hi, I’m Ana Centeno
