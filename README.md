@@ -1,15 +1,19 @@
 
 
 
+<div align="center">
+  <hr>
+  ![facets-of-data-analytics](https://github.com/user-attachments/assets/12287f7e-9469-4b2b-87f0-2828100ec35b)
+  <hr>
+</div>
 
 
 
-![facets-of-data-analytics](https://github.com/user-attachments/assets/12287f7e-9469-4b2b-87f0-2828100ec35b)
-
+<div align="center">
 ---
 # ***DATA ANALYST***
 ---
-
+</div>
 
 - 🙋‍♀️ Hi, I’m Ana Centeno
 - 🔍 I’m interested in Data Analysis 
