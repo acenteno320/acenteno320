@@ -26,9 +26,7 @@
 - 🤝 I’m looking to collaborate on data-related projects
   
 - 📫 How to reach me to my email: CentenoAj@outlook.com
-  
-- 👩‍💼 Pronouns: She/Her
-  
+
 - 🧠 Fun fact: I speak three languages, and sometimes I think in SQL before I think in Spanish
 
  
