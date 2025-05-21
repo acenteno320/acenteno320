@@ -52,7 +52,7 @@
 
 
 
-- Portfolio Projects: Check out my pinned repos! 📌
+- Portfolio Projects: Check out my pinned repos! 📌   ### ( In construction / Travail en cours )
 
 <!---
 acenteno320/acenteno320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
