@@ -42,8 +42,6 @@
 </p>
 
 
-[Testing link of Tableau:]
-(https://public.tableau.com/app/profile/ana.centeno/viz/TestproyectCoursdeFrancais/Hoja1).
 
 
 
