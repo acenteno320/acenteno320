@@ -10,53 +10,45 @@
 </div>
 
 
+# 👋 Hi, I'm Ana Centeno
 
-<div align="center">
-<strong>DATA ANALYTICS</strong>
-  <hr>
-</div>
+🎓 **Trilingual Data Analyst & QA (Spanish, English, French)**  
+📊 **Specialized in data extraction, analysis, and visualization**  
+💼 **Actively seeking opportunities in the public sector and projects with social impact**
 
+---
 
-- 🙋‍♀️ Hi, I’m Ana Centeno
-  
-- 🔍 I’m interested in Data Analysis
-  
-- 📚 I’m currently learning Business Intelligence and Data Visualization
-  
-- 🤝 I’m looking to collaborate on data-related projects
-  
-- 📫 How to reach me to my email: CentenoAj@outlook.com
+## ⚙️ **Tools & Technologies**
+- Python (Pandas, Matplotlib, Scikit-Learn)
+- SQL (MySQL)
+- Advanced Excel
+- Tableau & Power BI
+- Google Analytics (GA4)
+- Agile Methodologies (Scrum)
+- QA Testing (ISTQB Certified)
 
-- 🧠 Fun fact: I speak three languages, and sometimes I think in SQL before I think in Spanish
+---
 
- 
+## 📌 **Featured Projects**
+- **[Northwind_Excel](https://github.com/acenteno320/Northwind_Excel)**  
+  Regional sales analysis using advanced Excel functions, pivot tables, and KPI dashboards.
 
-## 🧰 Technologies:
+- **[Francisation_MIFI](https://github.com/acenteno320/Francisation_MIFI)**  
+  Tableau project visualizing open data about French language integration programs in Québec.
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
-</p>
+---
 
+## 🎯 **Currently**
+✔️ Completing an AEC in *Business Intelligence and Visualization Analysis*  
+✔️ Preparing certifications: Google Data Analytics & Microsoft Power BI PL-300  
+✔️ Building a portfolio with public and government open data projects
 
+---
 
+## 📫 **Contact**
+[LinkedIn]https://www.linkedin.com/in/ana-centeno-baltazar/ | [Email]CentenoAj@outlook.com | [GitHub Portfolio](https://github.com/acenteno320)
 
+---
 
+✨ *Thanks for visiting my profile! I’m open to collaboration, internships, and data analysis projects.* ✨
 
-
-
-
-
-
-
-
-
-- Portfolio Projects: Check out my pinned repos! 📌     ***( Projets currently in development / Travail en cours )***
-
-<!---
-acenteno320/acenteno320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
