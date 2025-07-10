@@ -25,7 +25,7 @@
 - Tableau & Power BI
 - Google Analytics (GA4)
 - Agile Methodologies (Scrum)
-- QA Testing (ISTQB Certified)
+- QA Testing 
 
 ---
 
