@@ -46,7 +46,7 @@
 ---
 
 ## 📫 **Contact**
-[LinkedIn]https://www.linkedin.com/in/ana-centeno-baltazar/ | [Email]CentenoAj@outlook.com | [GitHub Portfolio](https://github.com/acenteno320)
+https://www.linkedin.com/in/ana-centeno-baltazar/ | CentenoAj@outlook.com | [GitHub Portfolio](https://github.com/acenteno320)
 
 ---
 
